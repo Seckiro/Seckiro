@@ -38,7 +38,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 
 # 设备卡片
 ![](https://img.shields.io/badge/Iphone-292e33?style=flat-square&logo=apple&logoColor=ffffff)
-[![](https://img.shields.io/badge/Dell%20Inspiron-f5010c?style=flat-square&logo=Dell&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/Dell%20Inspiron-3f4441?style=flat-square&logo=Dell&logoColor=ffffff)](https://www.apple.com/)
  
 # 主要技能
 ![](https://img.shields.io/badge/VisualStudio-007396?style=flat-square&logo=visual-studio&logoColor=ffffff)

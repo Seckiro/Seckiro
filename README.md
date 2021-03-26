@@ -45,7 +45,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 ![](https://img.shields.io/badge/Unity-007396?style=flat-square&logo=unity&logoColor=ffffff)
 ![](https://img.shields.io/badge/Unreal-007396?style=flat-square&logo=Unreal-Engine&logoColor=ffffff)
 ![](https://img.shields.io/badge/C%20Sharp-007396?style=flat-square&logo=c-sharp&logoColor=ffffff)
-![](https://img.shields.io/badge/C/C++-007396?style=flat-square&logo=C&logoColor=ffffff)
+![](https://img.shields.io/badge/C/C++-007396?style=flat-square&logo=C-plus-plus&logoColor=ffffff)
 
  
 # 游戏

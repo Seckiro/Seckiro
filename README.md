@@ -49,4 +49,4 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 ![](https://img.shields.io/badge/Photoshop-000000?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 ![](https://img.shields.io/badge/Cocos-000000?style=flat-square&logo=Cocos&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
-![](https://img.shields.io/badge/We%20Game-e60012?style=flat-square&logo=we-game&logoColor=ffffff)
+![](https://img.shields.io/badge/Epic%20Game-313131?style=flat-square&logo=epic-game&logoColor=ffffff)

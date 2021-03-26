@@ -37,11 +37,11 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 [![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api/pin/?username=moshfiqrony&repo=awesome-bd-readme-profile&theme=dark)](https://github.com/moshfiqrony/awesome-bd-readme-profile)
 
 # 设备卡片
-![](https://img.shields.io/badge/Dell-Inspiron-292e33?style=flat-square&logo=Dell&logoColor=ffffff)
-[![](https://img.shields.io/badge/iphone-f5010c?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
+![](https://img.shields.io/badge/iphone-292e33?style=flat-square&logo=apple&logoColor=ffffff)
+[![](https://img.shields.io/badge/Dell-Inspiron-f5010c?style=flat-square&logo=Dell&logoColor=ffffff)](https://www.apple.com/)
  
 # 主要技能
-![](https://img.shields.io/badge/VisualStudio-007396?style=flat-square&logo=visualstudio&logoColor=ffffff)
+![](https://img.shields.io/badge/VisualStudio-007396?style=flat-square&logo=visual-studio&logoColor=ffffff)
 ![](https://img.shields.io/badge/CS-007396?style=flat-square&logo=csharp&logoColor=ffffff)
 ![](https://img.shields.io/badge/Unity-007396?style=flat-square&logo=unity&logoColor=ffffff)
  

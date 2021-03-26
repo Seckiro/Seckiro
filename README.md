@@ -15,7 +15,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
-  ![Visual Studio](https://img.shields.io/badge/VisualStudio-007ACC?style=plastic&logo=visual-studio)
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-007ACC?style=plastic&logo=visual-studio)
 - 💻 I work using:
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
   ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
@@ -41,9 +41,10 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 [![](https://img.shields.io/badge/Dell%20Inspiron-3f4441?style=flat-square&logo=Dell&logoColor=ffffff)](https://www.apple.com/)
  
 # 主要技能
-![](https://img.shields.io/badge/VisualStudio-007396?style=flat-square&logo=visual-studio&logoColor=ffffff)
-![](https://img.shields.io/badge/C%20Sharp-007396?style=flat-square&logo=c-sharp&logoColor=ffffff)
+![](https://img.shields.io/badge/Visual%20Studio-007396?style=flat-square&logo=visual-studio&logoColor=ffffff)
 ![](https://img.shields.io/badge/Unity-007396?style=flat-square&logo=unity&logoColor=ffffff)
+![](https://img.shields.io/badge/C%20Sharp-007396?style=flat-square&logo=c-sharp&logoColor=ffffff)
+
  
 # 游戏
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)

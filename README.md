@@ -35,7 +35,6 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
 ![](https://github-readme-stats.vercel.app/api?username=SktCodeMan&theme=dark&show_icons=true)
-[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api/pin/?username=moshfiqrony&repo=awesome-bd-readme-profile&theme=dark)](https://github.com/moshfiqrony/awesome-bd-readme-profile)
 
 # 设备卡片
 ![](https://img.shields.io/badge/Iphone-292e33?style=flat-square&logo=apple&logoColor=ffffff)

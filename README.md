@@ -11,7 +11,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 
 - 🏢 I'm currently working at **D2 Pvt. Ltd.**
 - 🚀 I use daily:
-  ![C #](https://img.shields.io/badge/C%10Sharp-black?style=plastic&logo=c-sharp)
+  ![C #](https://img.shields.io/badge/C%20Sharp-black?style=plastic&logo=c-sharp)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)

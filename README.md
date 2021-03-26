@@ -2,8 +2,9 @@
 
 I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code. Connect with me here -
 
-[![Email Badge](https://img.shields.io/badge/-2661331944@qq.com-c14438?style=plastic&logo=Email&logoColor=white&link=mailto:2661331944@qq.com)](mailto:2661331944@qq.com)
+[![Email Badge](https://img.shields.io/badge/jqtdyx@qq.com-c14438?style=plastic&logo=Email&logoColor=white&link=mailto:2661331944@qq.com)](mailto:2661331944@qq.com)
 ![Wechat Badge](https://img.shields.io/badge/Jqtdwx-blasck?style=plastic&logo=Wechat&logoColor=white)
+![Wechat Badge](https://img.shields.io/badge/2661331944-blasck?style=plastic&logo=QQ&logoColor=white)
 [![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/moshfiqrony/)
 [![Facebook Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/moshfiqrony/)](https://www.facebook.com/in/moshfiqrony/)
 [![Linkedin Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/moshfiqrony/)

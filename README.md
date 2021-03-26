@@ -38,7 +38,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 ![](https://github-readme-stats.vercel.app/api?username=SktCodeMan&theme=whit&show_icons=true)
 
 ![](https://img.shields.io/badge/Iphone-292e33?style=flat-square&logo=apple&logoColor=ffffff)
-[![](https://img.shields.io/badge/Dell%20Inspiron-3f4441?style=flat-square&logo=Dell&logoColor=ffffff)](https://www.apple.com/)
+[![](https://img.shields.io/badge/Dell%20Inspiron-007db8?style=flat-square&logo=Dell&logoColor=ffffff)](https://www.apple.com/)
 ![](https://img.shields.io/badge/Visual%20Studio-5c2d91?style=flat-square&logo=visual-studio&logoColor=ffffff)
 ![](https://img.shields.io/badge/Unity-292e33?style=flat-square&logo=unity&logoColor=ffffff)
 ![](https://img.shields.io/badge/Unreal-313131?style=flat-square&logo=Unreal-Engine&logoColor=ffffff)

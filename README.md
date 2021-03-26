@@ -36,19 +36,13 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 
 ![](https://github-readme-stats.vercel.app/api?username=SktCodeMan&theme=dark&show_icons=true)
 
-# 设备卡片
 ![](https://img.shields.io/badge/Iphone-292e33?style=flat-square&logo=apple&logoColor=ffffff)
 [![](https://img.shields.io/badge/Dell%20Inspiron-3f4441?style=flat-square&logo=Dell&logoColor=ffffff)](https://www.apple.com/)
- 
-# 主要技能
 ![](https://img.shields.io/badge/Visual%20Studio-007396?style=flat-square&logo=visual-studio&logoColor=ffffff)
 ![](https://img.shields.io/badge/Unity-007396?style=flat-square&logo=unity&logoColor=ffffff)
 ![](https://img.shields.io/badge/Unreal-007396?style=flat-square&logo=Unreal-Engine&logoColor=ffffff)
 ![](https://img.shields.io/badge/C%20Sharp-007396?style=flat-square&logo=c-sharp&logoColor=ffffff)
 ![](https://img.shields.io/badge/C/C++-007396?style=flat-square&logo=C&logoColor=ffffff)
-
- 
-# 游戏
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
 ![](https://img.shields.io/badge/-We%20Game-e60012?style=flat-square&logo=we-game&logoColor=ffffff)

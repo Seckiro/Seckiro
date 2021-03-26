@@ -2,9 +2,9 @@
 
 I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code. Connect with me here -
 
-[![Email Badge](https://img.shields.io/badge/jqtdyx@qq.com-c14438?style=plastic&logo=Microsoft-outlook&logoColor=white&link=mailto:2661331944@qq.com)](mailto:2661331944@qq.com)
+[![Email Badge](https://img.shields.io/badge/jqtdyx@qq.com-0078d4?style=plastic&logo=Microsoft-outlook&logoColor=white&link=mailto:2661331944@qq.com)](mailto:2661331944@qq.com)
 ![Wechat Badge](https://img.shields.io/badge/Jqtdwx-blasck?style=plastic&logo=Wechat&logoColor=white)
-![TencentQQ Badge](https://img.shields.io/badge/2661331944-blasck?style=plastic&logo=tencent-QQ&logoColor=white)
+![TencentQQ Badge](https://img.shields.io/badge/2661331944-eb1923?style=plastic&logo=tencent-QQ&logoColor=white)
 [![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/moshfiqrony/)
 [![Facebook Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/moshfiqrony/)](https://www.facebook.com/in/moshfiqrony/)
 [![Linkedin Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/moshfiqrony/)
@@ -13,7 +13,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 
 - 🏢 I'm currently working at **D2 Pvt. Ltd.**
 - 🚀 I use daily:
-  ![C #](https://img.shields.io/badge/C%20Sharp-black?style=plastic&logo=c-sharp)
+  ![C #](https://img.shields.io/badge/C%20Sharp-239120?style=plastic&logo=c-sharp)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)

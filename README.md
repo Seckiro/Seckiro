@@ -43,8 +43,10 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 # 主要技能
 ![](https://img.shields.io/badge/Visual%20Studio-007396?style=flat-square&logo=visual-studio&logoColor=ffffff)
 ![](https://img.shields.io/badge/Unity-007396?style=flat-square&logo=unity&logoColor=ffffff)
+![](https://img.shields.io/badge/Unreal-007396?style=flat-square&logo=Unreal-Engine&logoColor=ffffff)
 ![](https://img.shields.io/badge/C%20Sharp-007396?style=flat-square&logo=c-sharp&logoColor=ffffff)
-![](https://img.shields.io/badge/Unreal-007396?style=flat-square&logo=unreal&logoColor=ffffff)
+![](https://img.shields.io/badge/C++-007396?style=flat-square&logo=c++&logoColor=ffffff)
+
  
 # 游戏
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)

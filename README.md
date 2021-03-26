@@ -11,6 +11,8 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 [![Medium Badge](https://img.shields.io/badge/-@moshfiqrony-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@moshfiqrony/)](https://medium.com/@moshfiqrony)
 [![Instagram Badge](https://img.shields.io/badge/-moshfiqrony-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/moshfiqrony)
 
+![](https://github-readme-stats.vercel.app/api?username=SktCodeMan&theme=whit&show_icons=true)
+
 - 🏢 I'm currently working at **D2 Pvt. Ltd.**
 - 🚀 I use daily:
   ![C #](https://img.shields.io/badge/C%20Sharp-239120?style=plastic&logo=c-sharp)
@@ -35,7 +37,6 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
-![](https://github-readme-stats.vercel.app/api?username=SktCodeMan&theme=whit&show_icons=true)
 
 ![](https://img.shields.io/badge/Iphone-292e33?style=flat-square&logo=apple&logoColor=ffffff)
 [![](https://img.shields.io/badge/Dell%20Inspiron-007db8?style=flat-square&logo=Dell&logoColor=ffffff)](https://www.apple.com/)

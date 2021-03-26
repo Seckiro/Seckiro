@@ -51,4 +51,4 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 # 游戏
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
-![](https://img.shields.io/badge/-We%20Game-e60012?style=flat-square&logo=WeGame&logoColor=ffffff)
+![](https://img.shields.io/badge/-We%20Game-e60012?style=flat-square&logo=we-game&logoColor=ffffff)

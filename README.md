@@ -11,7 +11,7 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 [![Medium Badge](https://img.shields.io/badge/-@moshfiqrony-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@moshfiqrony/)](https://medium.com/@moshfiqrony)
 [![Instagram Badge](https://img.shields.io/badge/-moshfiqrony-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/moshfiqrony)
 
-![](https://github-readme-stats.vercel.app/api?username=Seckrio&theme=whit&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Seckiro&theme=whit&show_icons=true)
 
 - 🏢 I'm currently working at **D2 Pvt. Ltd.**
 - 🚀 I use daily:
